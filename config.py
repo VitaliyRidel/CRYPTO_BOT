@@ -1,4 +1,4 @@
-TOKEN = "insert_your_token"
+TOKEN = 'insert_your_token'
 keys = {
     'евро': 'EUR',
     'доллар': 'USD',
